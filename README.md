@@ -1,113 +1,98 @@
-<h1 align="center">Hey 👋 I'm Baishnab</h1>
-
-###
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTByZXgxaTBybTJtNDFhaGF6MTBjeXVqZGozN3pqNXVmZmhhdmtzeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/93UOscPyDH8cdRfSaT/giphy.gif"  />
-</div>
-
-###
-
-<br clear="both">
-
-<h3 align="center">AI/ML + Web Dev Enthusiast</h3>
-
-###
-
-<p align="left">👋 Hi, I'm Baishnab Charan Behera – a final-year CSE student and an AI/ML + Web Dev enthusiast on a mission to build smart systems that don’t just work — they think.<br>🧠 I specialize in blending deep learning with clean, scalable web applications — whether it’s OCR-powered medicine extractors, real-time voice assistants, or end-to-end AI summarization tools.<br>🌍 My GitHub is where intelligence meets interface — from transformer models to full-stack deployments.<br>✨ Curious about how a student turns research ideas into real-world, production-grade tools?<br>→ Scroll through my projects — they speak louder than words.</p>
-
-###
-
-<h3 align="left">About Me....</h3>
-
-###
-
-<p align="left">🔭 He/Him | Final-year CSE @ KIIT<br>🧠 AI/ML + Web Dev Enthusiast<br>⚙️ Building smart apps with TensorFlow, Flask, Hugging Face, & Docker<br>🌍 Projects that think, scale, and ship<br>🚀 2025 Goal: Build 🔥 stuff. Land that dream AI role.<br>⚡ Fun fact: Deployed real AI apps before graduation</p>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/baishnab_charan_behera/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/baishnab-behera-27b81a309/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="baishnab1708@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://x.com/Baishnab1708?t=Ltm29yVem76aWvpBjnSf4w&s=09" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-</div>
-
-###
-
-<h3 align="left">My Tech Stack</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-</div>
-
-###
+<h1 align="center" style="font-weight: 800; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  Hey 👋 I'm <span style="color:#61dafb;">Baishnab Charan Behera</span>
+</h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Baishnab1708&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Baishnab1708&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTByZXgxaTBybTJtNDFhaGF6MTBjeXVqZGozN3pqNXVmZmhhdmtzeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/93UOscPyDH8cdRfSaT/giphy.gif" alt="Hello waving gif" />
 </div>
 
-###
+---
+
+<h3 align="center" style="font-style: italic; color: #888;">AI/ML Researcher & Web Developer | Final Year CSE @ KIIT</h3>
+
+---
+
+<p align="justify" style="font-size: 16px; max-width: 720px; margin: auto; line-height: 1.6; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+👋 Hi there! I’m Baishnab — a passionate AI/ML and Full-Stack enthusiast focused on building intelligent, scalable applications that solve real-world problems. From OCR-powered medicine extractors and voice assistants to advanced AI summarization tools, I blend deep learning with clean web architectures.<br><br>
+💡 My projects reflect a synergy of cutting-edge research and hands-on deployment — engineered with TensorFlow, PyTorch, Flask, Docker, and hosted on Hugging Face & Cloud platforms.<br><br>
+🚀 I am driven by the challenge of turning research ideas into production-grade software — scalable, maintainable, and impactful.<br><br>
+✨ Check out my repositories below to see how I bring AI-powered solutions to life!
+</p>
+
+---
+
+<h2>About Me</h2>
+
+<ul style="max-width: 720px; margin: auto; font-size: 16px; line-height: 1.6;">
+  <li>🎓 Final-year Computer Science Engineering student at KIIT University</li>
+  <li>🧠 AI/ML Researcher & Web Developer</li>
+  <li>⚙️ Tech stack: TensorFlow, PyTorch, Flask, FastAPI, Hugging Face, Docker, and more</li>
+  <li>🌐 Deployed AI applications before graduation</li>
+  <li>🎯 2025 Goal: Build innovative AI-powered systems & secure a dream AI role</li>
+</ul>
+
+---
+
+<h2>Connect with Me</h2>
+
+<div align="left" style="margin-bottom: 20px;">
+  <a href="https://www.instagram.com/baishnab_charan_behera/" target="_blank" title="Instagram" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/baishnab-behera-27b81a309/" target="_blank" title="LinkedIn" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" alt="LinkedIn" />
+  </a>
+  <a href="mailto:baishnab1708@gmail.com" title="Email me" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" alt="Email" />
+  </a>
+  <a href="https://x.com/Baishnab1708?t=Ltm29yVem76aWvpBjnSf4w&s=09" target="_blank" title="X / Twitter" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="48" alt="Twitter" />
+  </a>
+</div>
+
+---
+
+<h2>Tech Stack & Tools</h2>
+
+<div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; max-width: 900px; margin: auto;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="SQLAlchemy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="NPM" />
+</div>
+
+---
+
+<div align="left" style="margin-top: 40px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Baishnab1708&locale=en&layout=compact&card_width=320&langs_count=5&theme=dracula" height="160" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app?username=Baishnab1708&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" height="160" alt="GitHub Trophies" />
+</div>
+
+---
+
+<p align="center" style="font-style: italic; color: #666;">
+  *“Turning ideas into intelligent systems, one line of code at a time.”*
+</p>
